@@ -4,7 +4,7 @@ SQL Anywhere (node) implementation of John Gardner's VAT validator from http://w
 
 ## Change the original jsvat.ts to TypeScript
 
-Better Type Checking generates more consistant Code.
+Better Type Checking generates more consistant Code. Use tsc -w to compile into jsvat.js
 
 ## countryA2 as first Parameter 
 
